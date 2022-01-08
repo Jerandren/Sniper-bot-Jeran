@@ -2,6 +2,7 @@
 Sniper bot dedicado al trading y compra de token.
 
 Novedades:
+
 *Ajuste en la introducción del token
 *Funcionalidade de Trading
 *Solo compra
