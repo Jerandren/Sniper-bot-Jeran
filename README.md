@@ -1,5 +1,5 @@
-![Github all releases](https://img.shields.io/github/downloads/Jerandren/Sniper-bot-Jeran/total)
-![Github repo size](https://img.shields.io/github/repo-size/Jerandren/Sniper-bot-jeran)
+![Github all releases](https://img.shields.io/github/downloads/Jerandren/Sniper-bot-jeran/total)
+![Github repo size](https://img.shields.io/github/repo-size/Jerandren/Sniper-bot-Jeran)
 
 # Sniper-bot-Jeran
 _Este Sniper bot fue creado por la necesidad de los usuarios para competir con otros Sniper bot pero con un costo más economico y confiable. Se busca desarrollar una serie de programas capas de cubrir todas las necesidades de los usuarios._
