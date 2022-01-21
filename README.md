@@ -44,3 +44,7 @@ _El bot es de uso inmediato, una vez descargado debemos ingresar nuestra wallet 
 ## Autores ✒️
 _Unico creador del bot y desarrollador_
 * **Jeran Dren** - *Development* - [Jerandren](https://github.com/Jerandren)
+
+## Redes 👥
+* [Canal de anuncios](https://t.me/SniperJeran)
+* [Canal del grupo](https://t.me/Sniper_bot_Jeran)
